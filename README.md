@@ -1,2 +1,2 @@
 # auth0
-Auth0 Bugbounty POC by @nvk0x
+Auth0 Bug Bounty POC by @nvk0x
